@@ -16,6 +16,7 @@
 - To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items.
     - Indent one or more items to create a nested list.
 - 2\. If you need to start an unordered list item with a number followed by a period, you can use a backslash (\) to escape the period.
+***
 # Images
 
 To create a horizontal rule, use three or more asterisks (***), dashes (---), or underscores (___) on a line by themselves.
@@ -26,3 +27,17 @@ To create a horizontal rule, use three or more asterisks (***), dashes (---), or
     ![jpg](/img/jpg.jpg)
     ![png](/img/png.png)
     ![webp](/img/webp.webp)
+***
+
+# Tables
+
+| Name | Link |
+| ----------- | ----------- |
+| Tables   | [Tables ](https://www.markdownguide.org/extended-syntax/)      |
+| Paragraph   | Text        |
+***
+
+# Task Lists
+
+- [x] To create a task list, add dashes (-) and brackets with a space ([ ]) in front of task list items. 
+- [ ] To select a checkbox, add an x in between the brackets ([x]).
