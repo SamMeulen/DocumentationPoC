@@ -1,4 +1,2 @@
-<h1>Heading level 1</h1>
+Enter text here
 
-This is the first line.  
-And this is the second line.
